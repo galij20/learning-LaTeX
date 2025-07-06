@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[T1]{frontenc}
+
+\title{\textbf{Logical Structure}}
+\author{Galij Sunuwar}
+\date{July 6, 2025}
+
+\begin{document}
+\maketitle
+\section{Nesting commands}
+
+	%nesting the same command within the arguments of the command lead it to be excluded.
+\subsection{Nesting with emphasis command}
+	Some text with \emph{emphasis and \emph{nested} content}.
+\subsection{Nesting with italicized command}
+	Some text wit \textit{italicized and \textit{nested} content}.
+
+\section{Footnotes and descriptions}
+	Today is day 2 of my LaTeX learning journey.\footnote{Hello, World!!}
+
+	I'll be learning the logical structure of documents today.
+
+\section{Listing}
+Below is the ordered list for a few of my favourite music bands 
+\begin{enumerate}
+
+	\item The Beatles
+	\item Neutral Milk Hotel
+	\item Green Day
+\end{enumerate}
+Below is an underordered list for a few of my favourite desserts
+\begin{itemize}
+	\item Ice Cream
+	\item Cakes
+	\item Custard 
+
+\end{itemize}
+
+\end{document}
