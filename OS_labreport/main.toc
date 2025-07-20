@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Objective}{2}{}%
+\contentsline {section}{\numberline {2}Introduction}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Virtualization}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Virtual Machine(VM)}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Virtualization Software}{3}{}%
+\contentsline {subsubsection}{Oracle VirtualBox}{3}{}%
+\contentsline {subsubsection}{QEMU}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Use Cases}{5}{}%
+\contentsline {section}{\numberline {3}Tools/ Requirements}{5}{}%
+\contentsline {section}{\numberline {4}Procedure}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Installing Virtualbox}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Selecting the OS}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Creating the VM}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Booting the VM}{11}{}%
+\contentsline {subsection}{\numberline {4.5}Installing the OS}{11}{}%
+\contentsline {subsection}{\numberline {4.6}Post-Installation Configuration}{11}{}%
+\contentsline {subsection}{\numberline {4.7}Pausing the VM}{11}{}%
+\contentsline {subsection}{\numberline {4.8}Taking Snapshots}{11}{}%
+\contentsline {subsection}{\numberline {4.9}Exporting the VM}{11}{}%
+\contentsline {subsection}{\numberline {4.10}Importing a VM}{11}{}%
+\contentsline {subsection}{\numberline {4.11}Cloning the VM}{11}{}%
+\contentsline {section}{\numberline {5}Observation}{11}{}%
+\contentsline {section}{\numberline {6}Results}{11}{}%
+\contentsline {section}{\numberline {7}Advantages}{11}{}%
+\contentsline {section}{\numberline {8}Conclusion}{11}{}%
